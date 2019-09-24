@@ -14,6 +14,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class print_screen_test {
 	public static void main(String ar[]) throws IOException
 	{
+		//ujhighjignji
+		//uhguuhu
 		System.setProperty("webdriver.gecko.driver","C:\\Users\\training\\Desktop\\vishwa\\geckodriver-v0.25.0-win64\\geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
 		// WebDriver driver =new FirefoxDriver();
